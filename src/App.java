@@ -3,7 +3,6 @@ import java.util.List;
 
 import com.lld.snnakesladders.model.BoardEntityType;
 import com.lld.snnakesladders.model.BoardObject;
-import com.lld.snnakesladders.model.Game;
 import com.lld.snnakesladders.model.GameInstance;
 import com.lld.snnakesladders.model.Player;
 import com.lld.snnakesladders.service.SnakeLadderGameService;
