@@ -1,2 +1,6 @@
+./bin
+lib
+.idea
 .vscode
-bin
+*.iml
+out
